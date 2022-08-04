@@ -12,6 +12,7 @@ If [time (minute)] is specified, exit after that time.
 
 ex) ./meet-exit 30  → Exit after 30 minutes.
 
+
 If [hour] [minute] [second] is specified, leave at that time.
 
 ex) ./meet-exit 0 21 40 30 → Exit at 21:30:40.
