@@ -8,7 +8,7 @@ This tool forces meet to leave at a specified time.
 <br><br>
 
 ## Manual
-If [time (minute)] is specified, exit after that time.
+If [time (minutes)] is specified, exit after that time.
 <br>
 ex) ./meet-exit 30  → Exit after 30 minutes.
 
